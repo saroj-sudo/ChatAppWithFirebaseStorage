@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417338053686",
+    "firebase_url": "https://flash-7b4e9.firebaseio.com",
+    "project_id": "flash-7b4e9",
+    "storage_bucket": "flash-7b4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417338053686:android:d34089ad7ac84ff7b67497",
+        "android_client_info": {
+          "package_name": "com.saroj.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417338053686-6tplk79afqv3a0ucglepljihn7418rim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_oY8-Ts1ACk_ERi1ICVKc6tAwuMCabFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417338053686-6tplk79afqv3a0ucglepljihn7418rim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
